@@ -1,9 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFrameworks>net6.0;net40</TargetFrameworks>
+    <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +13,7 @@
 
   <PropertyGroup>
     <PackageId>RegistryKeyManager</PackageId>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.2022.1027</Version>
     <Authors>Artur Mustafin</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
