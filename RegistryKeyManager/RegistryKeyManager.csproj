@@ -13,13 +13,15 @@
 
   <PropertyGroup>
     <PackageId>RegistryKeyManager</PackageId>
-    <Version>1.0.2022.1027</Version>
+    <Version>1.0.2022.1028</Version>
     <Authors>Artur Mustafin</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup>
-      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/default-writer/registrykeymanager</RepositoryUrl> 
+    <RepositoryType>git</RepositoryType>       
   </PropertyGroup>
 
   <PropertyGroup>
