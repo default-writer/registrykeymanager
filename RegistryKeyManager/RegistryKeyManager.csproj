@@ -13,7 +13,7 @@
 
   <PropertyGroup>
     <PackageId>RegistryKeyManager</PackageId>
-    <Version>1.0.2022.1028</Version>
+    <Version>1.0.2022.1029</Version>
     <Authors>Artur Mustafin</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>

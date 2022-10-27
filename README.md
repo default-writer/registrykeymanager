@@ -1,6 +1,9 @@
 # registrykeymanager
 RegistryKeyManager for Microsoft Windows
 
+v.1.0.2022.1029:
+ - nuget configuration fix
+
 v.1.0.2022.1028:
  - added support for git repo
 
